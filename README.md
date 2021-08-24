@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Evelynisbored
+- 👀 I’m interested in coding projects
+- 🌱 I’m currently learning python
